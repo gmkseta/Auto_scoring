@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      "compile-run",
+      "/home/yang/single/single_study"
+    ]
+  ],
+  "_from": "compile-run@latest",
+  "_id": "compile-run@1.2.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/compile-run",
+  "_nodeVersion": "6.11.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/compile-run-1.2.2.tgz_1508605261781_0.2772977987769991"
+  },
+  "_npmUser": {
+    "email": "vibhor349a@rediffmail.com",
+    "name": "vibhor1997a"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "compile-run",
+    "raw": "compile-run",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/compile-run/-/compile-run-1.2.2.tgz",
+  "_shasum": "070848744421165ea5c364f27a9afb0b2eb06d87",
+  "_shrinkwrap": null,
+  "_spec": "compile-run",
+  "_where": "/home/yang/single/single_study",
+  "author": {
+    "name": "Vibhor Agrawal"
+  },
+  "bugs": {
+    "url": "https://github.com/vibhor1997a/compile-run/issues"
+  },
+  "dependencies": {},
+  "description": "This package facilitates in compiling and running languages including java,c,c++,python and node. This can be used to create web services like online IDE's",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "070848744421165ea5c364f27a9afb0b2eb06d87",
+    "tarball": "https://registry.npmjs.org/compile-run/-/compile-run-1.2.2.tgz"
+  },
+  "gitHead": "e1f206451c66ba76d0c208bc3e98157a6c44d7af",
+  "homepage": "https://github.com/vibhor1997a/compile-run",
+  "keywords": [
+    "c",
+    "c++",
+    "compile-run",
+    "compiler",
+    "gcc",
+    "java",
+    "javac",
+    "javascript",
+    "js",
+    "node",
+    "python",
+    "run"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "vibhor1997a",
+      "email": "vibhor349a@rediffmail.com"
+    }
+  ],
+  "name": "compile-run",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibhor1997a/compile-run.git"
+  },
+  "scripts": {},
+  "version": "1.2.2"
+}
