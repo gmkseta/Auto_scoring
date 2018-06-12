@@ -11,7 +11,6 @@
   * 2014112032 최동혁
 
 
-<style>img{width:100%}</style>
 
 ## Example Homepage
 
@@ -48,7 +47,7 @@
 
 #### <메인 홈 화면>
 
-![](https://i.imgur.com/dxSYnbv.png)
+![](https://i.imgur.com/dxSYnbv.png){: width="100%" }
 
 
 
@@ -95,13 +94,13 @@
 
   #### <학습자의 코드 제출>
 
-  ![](https://imgur.com/U4GIWqL.png)
+  ![](https://imgur.com/U4GIWqL.png){: width="100%" }
 
 * 위와 같이 실습문제가 올라와 있을 때 제출 하고자 하는 문제의 게시판에 들어간다.
 
 
 
-![](https://i.imgur.com/3ywKKmE.png)
+![](https://i.imgur.com/3ywKKmE.png){: width="100%" }
 
 * 첨부파일 에 자신이 검사받고자 하는 코드 파일 첨부 후 submit으로 제출한다.
 
@@ -109,13 +108,13 @@
 
 #### <결과 화면 확인>
 
-![](https://i.imgur.com/1Xug67T.png)
+![](https://i.imgur.com/1Xug67T.png){: width="100%" }
 
 * 정답일 때의 화면이다.
 
 
 
-![](https://i.imgur.com/VRUcYMe.png)
+![](https://i.imgur.com/VRUcYMe.png){: width="100%" }
 
 * 오답일 때의 화면이다
 
