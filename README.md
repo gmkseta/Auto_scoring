@@ -14,9 +14,8 @@
 
 ## Example Homepage
 
-
-
-
+<a href="http://13.124.164.139:3000" >Example Homepage Link</a>
+ 
 
 
 
@@ -46,8 +45,9 @@
 
 
 #### <메인 홈 화면>
+<img src="https://i.imgur.com/dxSYnbv.png" width="100%"></img>
 
-![](https://i.imgur.com/dxSYnbv.png){: width="100%" }
+
 
 
 
@@ -59,8 +59,8 @@
 
 
 #### <관리자의 프로그래밍 실습 문제 등록>
+<img src="https://i.imgur.com/L5X7yWG.png" width="100%"></img>
 
-![](https://i.imgur.com/L5X7yWG.png)
 
 * 관리자 계정으로 로그인 후, 게시판 - New 에서 문제를 제출한다.
 
@@ -93,28 +93,28 @@
   
 
   #### <학습자의 코드 제출>
+<img src="https://i.imgur.com/U4GIWqL.png" width="100%"></img>
 
-  ![](https://imgur.com/U4GIWqL.png){: width="100%" }
 
 * 위와 같이 실습문제가 올라와 있을 때 제출 하고자 하는 문제의 게시판에 들어간다.
 
 
+<img src="https://i.imgur.com/3ywKKmE.png" width="100%"></img>
 
-![](https://i.imgur.com/3ywKKmE.png){: width="100%" }
 
 * 첨부파일 에 자신이 검사받고자 하는 코드 파일 첨부 후 submit으로 제출한다.
 
 
 
 #### <결과 화면 확인>
+<img src="https://i.imgur.com/1Xug67T.png" width="100%"></img>
 
-![](https://i.imgur.com/1Xug67T.png){: width="100%" }
 
 * 정답일 때의 화면이다.
 
 
+<img src="https://i.imgur.com/VRUcYMe.png" width="100%"></img>
 
-![](https://i.imgur.com/VRUcYMe.png){: width="100%" }
 
 * 오답일 때의 화면이다
 
